@@ -1,0 +1,22 @@
+{
+  "name": "react-wrap-bootsrtap",
+  "version": "0.0.1",
+  "description": "React Wrapers for Bootsrtap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chumak84/react-wrap-bootstrap.git"
+  },
+  "keywords": [
+    "rwb"
+  ],
+  "author": "chumak84",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chumak84/react-wrap-bootstrap/issues"
+  },
+  "homepage": "https://github.com/chumak84/react-wrap-bootstrap#readme"
+}
